@@ -11,7 +11,7 @@
             int sum = a + b;
             int diff = a - b;
             int prod = a * b;
-            double avg = (a + b) / 2;
+            double avg = (a + b) / 2.0;
 
             Console.WriteLine($"Сумма: {sum}");
             Console.WriteLine($"Разность: {diff}");
